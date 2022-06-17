@@ -1,5 +1,5 @@
 ﻿# MIDI Controller
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I made a MIDI (Musical Instrument Digital Interface) Controller that can be used to send MIDI data to my computer.  My computer can then interpret the signal and use it to add a sound or play a virtual instrument on my computer (without needing to have the actual instrument).
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
