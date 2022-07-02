@@ -6,7 +6,8 @@ I made a MIDI (Musical Instrument Digital Interface) Controller that can be used
 | Abigail | Lynbrook High School | Computer Science Engineering | Incoming Junior
 
 <a href="https://ibb.co/MPt0Wbq"><img src="https://i.ibb.co/c2ZnMPz/Screen-Shot-2022-06-30-at-10-44-56-AM.png" alt="Screen-Shot-2022-06-30-at-10-44-56-AM" border="0"></a>
-[![Abigail - MIDI Controller Final Milestone](https://docs.google.com/document/d/1t8dTeRNoEKlH5cwDMAUCtJWYF3Ke6RhoIIIHwUimU1I/edit?usp=sharing)
+
+[Engineering Documentation](https://docs.google.com/document/d/1t8dTeRNoEKlH5cwDMAUCtJWYF3Ke6RhoIIIHwUimU1I/edit?usp=sharing)
   
 # Final Milestone
 My final milestone was adding in all of my buttons and potentiometers and putting everything into a box to make it look like a MIDI controller.  The main issue I ran into here was that the wires on the potentiometers kept falling off, so I decided to hot glue them on before putting them in the box.  Luckily, I tested everything out before setting it in the box, so I found out that my potentiometers weren't working because the hot glue was interfering with the circuit.  As a solution, I removed the hot glue and instead soldered the wires on.  Another, smaller, issue that occured was that my sliders kept falling because the hot glue didn't work well with the felt-like texture on top of the sliders, so I used two pieces of cardboard inside the box to prop the sliders up against the top of the box; I also glued clay onto the top of the sliders so that it looked like a slidable knob and not just a small piece of metal sticking out.  Finally, I cut a flap into the side of the box so that I could connect the cable between my computer and Arduino without having to keep the box open.
